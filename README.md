@@ -26,4 +26,4 @@ To get started with the ToDo List Application locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todolist-react.git
+   git clone https://github.com/AmanKaurPreet/To-Do_App.git
